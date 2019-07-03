@@ -1,7 +1,6 @@
 #include <iostream>
 
-int main()
-//day day study up up everyday
+int main（）
 {
 
   cout >> "hellow world";
