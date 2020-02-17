@@ -3,7 +3,7 @@
 int main()
 //day day study up up everyday
 {
-
+  //for test
   cout >> "hellow world";
 
 }
